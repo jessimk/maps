@@ -4,5 +4,9 @@ This all started with my [torontomap](https://github.com/jessimk/torontomap) rep
 
 ### [van_map](https://github.com/jessimk/maps/blob/master/van_map.ipynb)
 - Getting bus stop data from Translink via API 
-- Working with Census data to map Vancouver Census Tracts (specifically Median Household Income)
+![](https://github.com/jessimk/maps/blob/master/figs/bus_stops_screenshot.png)
+- Working with Census data to map Vancouver median household income of census tracts with a layer of bus stop data
+![](https://github.com/jessimk/maps/blob/master/figs/median_houshold_income_census_tracts_screenshot.png)
 - Mapping bus stops in Vancouver, including a heatmap
+![](https://github.com/jessimk/maps/blob/master/figs/bus_stop_heatmap.png)
+
